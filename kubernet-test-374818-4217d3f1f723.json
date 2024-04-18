@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kubernet-test-374818",
+  "private_key_id": "4217d3f1f723aaff54ab5e086caa5c4bf38d5df5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDriFCgVhAxvw7X\nAFsVLZHNSl4rw8OVjz2FIp1qA9CmFTJTOR8VPrkWNFCihVXpIAGcRSpixc3GWfDr\nm1e14n+Ptqn0NHXoeFw84cnnt2nhe1bo9liU7q038TpkuqGRtv9EPtVOUyDpAfGi\nEHIUG7Xw1QvO1SJAk9yJmqruJ0dNk2EB1I8JI7AxoQiV/APVCIC/ksdjWfNfzlB4\nrB9uxM4UGxjg9BPzEnKdWFVSApG0jwGsN43nbwrdJyistYHNO+ATmk95trM5QEWI\n24ntDSr47RZgGYv8UwH+qSyrLCnWhdrXHviJmmz7/L5yrjh3x2SE/h4tFEeLaLyF\nmKIMXeFdAgMBAAECggEADrNm6OMGRryYlgXRKYy7FXenUg75davHmLg04AmV68/V\n4MjnbkGIduDUCZjN6GuVfiX5A8o50kAJ4ALFojYdZSBvEi12EIj2pNwo6HwTsT2s\nCoVZuQ3+pMe7L89QR1KHM0DCuo1IuBJlfQqOvD+QhxQdFQ9LgIFaGgKb2Zp9AlPq\nand4vpHl4nX64DoEGiyp+VHgpuQ0IXT92U5zetDUvKng1hL6hghre8JaISCzzhEP\ntcYYiNH2Ejn0se1K4YbzoGorl8/7H5Fs4+33RJhSiKy1fZWGeHohNGnw+pLmcofk\njFUstqw0tqichG9bZWigBAYLNZJ/S+7F35RvRb6ppwKBgQD1oq9Moc91tygvFBrT\ndk21uBXR1rQh021vWoq6UzTAx+Si7M06+u1B0NaCMCBklzKMwjoYUuYW8Kp3aOh3\n0dX+rUKQAcgl7Jv+3+AdgjpGRoi7x+W2ZnT0VI5RTeTGEu0k/9eaDU6Q19/JFGBz\ny2sdL2iNKX/3Y0MVN64GPZZSqwKBgQD1eH/GI/LJtfd3pO732EBOjPU3VvWspR9t\nubISQtCSoiIm+cO9VnaEfmmcl3VIwo9h/h98WDRIjpP6htxKTGRmbjWzpCSQ5Rfn\nEnH6AoWYEBit8CnRRFhs0h5GQcffl0QHd7r1eqSUdaPI5kaE4i5wyXRx5wcxvtBV\nFAHGInVcFwKBgQCVzyyezikbICOv4tEhmwt2Atm76vhdkPczbMMjNE/+K2u0OjxI\n9nTxKQ9Kw1NeRiCcXHDWGOkfoJQ205LEUQP0mXL5JT0OdCoH3j5vgNdNuQL3k8jz\n37UAtvk9eQZID472e9rgp7D9AcwIdRcGSFABssJPJbpYBQAK1rSaNcGSlQKBgDSc\nFNaEkd6Fb3pnEQhxgqbTMyMfMhxEb432xKGBTG6A7UzpLvh/dXtEFKKJG4vylwRr\nkJf314zNcg25pbEO2l3RtRTBU0zyrMLLgz4QGE3U9VUiKfQ9762zAuYP5ySWqO/o\ny1sdY/SlmerO38JPL6DgrGJVH4eb287AMPkkHX8VAoGAFJx9cKUtMAa5bI9LrUsB\nuNH9MFI/0l/2z2HFjlk5rmK2rrqHKTss/BWEcyydTswaHzlxJh66gsUFjqIYgpwR\npdyMHBEQHSc0URtRkVOyE04Vt8IF3fPrQtWwCISddpD9P7+h/aW2hxrf8jcCXKs7\nhv4uDs9k+c5UFnjaIFAshdg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-chatbot-172@kubernet-test-374818.iam.gserviceaccount.com",
+  "client_id": "110886802639184445900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-chatbot-172%40kubernet-test-374818.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
