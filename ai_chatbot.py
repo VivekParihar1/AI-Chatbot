@@ -22,7 +22,7 @@ from langchain.retrievers.merger_retriever import MergerRetriever
 from text_to_speech import speak
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "API-key"
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 #Flask App
